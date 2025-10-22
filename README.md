@@ -1,0 +1,5 @@
+Element	Project Step (Showcasing Your AI Tool)	The Free Giveaway (Empowerment)
+The Project	Creating a 5-minute Synthetic Podcast Episode or Voiceover Tutorial from a long-form article or video.	The "Clone-My-Voice" Starter Kit (TTS Template & Clean Script).
+AI Tool Showcase	1. AI Summarizer/Outline Tool: Take a long blog post and have the AI extract the key points and structure them into a compelling 5-minute script.	Empowerment: They can create high-quality, professional voice-over content without ever stepping in front of a mic (solving fear of recording/camera shyness).
+AI Tool Showcase	2. Text-to-Speech (TTS) Tool (e.g., ElevenLabs/Descript): Generate a high-quality, professional-sounding voiceover from the script.	The Giveaway: A polished, "ready-to-record" Template Script (that they can feed into their own AI TTS tool), plus a Sound Effects Pack and a list of Free TTS Tools you recommend.
+The End Result	A broadcast-quality audio file/video with a synthetic, professional narrator.	Your Audience Gets: The tools and instructions to get a "professional voice" for their brand instantly.
